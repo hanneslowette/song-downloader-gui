@@ -21,4 +21,4 @@ the same name.
 
 ## Screenshots
 
-[screenshot](http://i.imgur.com/feM0vjC.png)
+![screenshot](http://i.imgur.com/feM0vjC.png)
